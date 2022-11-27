@@ -1,7 +1,7 @@
 # Cursors-and-Cursor-Property
 Check out your different kinds of cursors in your cursor pack
 
-Download this file and open it with a web browser (like chrome, edge, opera, firefox, etc.)
+Download "main.html" file and open it with a web browser (like chrome, edge, opera, firefox, etc.)
 
 OR
 
